@@ -1,0 +1,12 @@
+Uuid: 1ba830620dce4ec4a1057567323687b9
+ExtensionType: 1
+Name: Quicker Context
+RepoName: quicker-context
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: ByteButcher
+ShortDescription: Adds a dialog to select all available context menu entries more easily by typing parts of the name or choosing one stored in the history.
+EntryPoint: burp-quicker-context-extension/build/libs/burp-quicker-context-extension-1.0.jar
+BuildCommand: cd burp-quicker-context-extension && gradle fatJar
