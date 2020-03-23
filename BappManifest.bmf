@@ -3,10 +3,10 @@ ExtensionType: 1
 Name: Quicker Context
 RepoName: quicker-context
 ScreenVersion: 1.0
-SerialVersion: 4
+SerialVersion: 6
 MinPlatformVersion: 0
 ProOnly: False
-Author: ByteButcher
+Author: Thomas Engel
 ShortDescription: Quickly select context menu entries using a search dialog
 EntryPoint: burp-quicker-context-extension/build/libs/burp-quicker-context-extension-1.0.jar
 BuildCommand: cd burp-quicker-context-extension && gradle fatJar
